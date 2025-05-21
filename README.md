@@ -1,1 +1,2 @@
 # McGill University, COMP 424
+Developed a Reversi (Othello) AI agent for COMP 424 using Python, implementing strategic move selection in student_agent.py and testing performance against various opponents. The project includes a full simulation environment to visualize games, autoplay multiple matchups, and evaluate agents across dynamic board sizes (6–12). To run the game, install dependencies and launch simulator.py with the desired agent configurations.
