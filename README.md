@@ -1,2 +1,2 @@
-# McGill University, COMP 424
+# Monte Carlo Tree Search Agent for Othello/Reversi
 Engineered an Othello gameplay agent in Python using Monte Carlo Tree Search in student_agent.py, incorporating exploration-exploitation balancing (UCB1) and optimization for efficient simulations; evaluated performance against baseline agents and refined for strategic depth. The project includes a full simulation environment to visualize games, autoplay multiple matchups, and evaluate agents across dynamic board sizes (6–12). To run the game, install dependencies and launch simulator.py with the desired agent configurations.
